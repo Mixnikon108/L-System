@@ -2,7 +2,7 @@
 
 This program is a flexible implementation of a Lindenmayer System for generating fractal patterns, with a specific focus on tree-like structures. Although it's tailored to simulate natural arboreal forms, it can be adapted to create a wide range of fractal shapes. 
 
-<p align="center">
+<p align="center" style="transform: rotate(90deg);">
   <img src="img/helecho1.png" alt="Fractal tree" width="30%">
 </p>
 
